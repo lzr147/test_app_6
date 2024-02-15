@@ -3,6 +3,8 @@ class ApplicationController < ActionController::Base
   end
  def Hello 111
  end
- 
+ def 
+  KKKKKK
+ end
 
 end
